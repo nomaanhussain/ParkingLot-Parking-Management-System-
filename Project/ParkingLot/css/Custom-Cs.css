@@ -1,0 +1,67 @@
+﻿.center { 
+    text-align:center;
+}
+
+.center-page
+{
+    width:300px;
+    height:300px;
+    position:absolute;
+
+    top:-40px;
+    bottom:0;
+    left:0;
+    right:0;
+
+    margin:auto;
+}
+
+.space-vert
+{
+    margin-top:20px;
+    top: 1px;
+    left: -5px;
+}
+
+.footer-pos
+{
+    width:auto;
+    height:auto;
+    position:absolute;
+
+    top:600px;
+    bottom:0;
+    left:0;
+    right:0;
+
+    margin:auto;
+}
+
+body{
+    padding-top:50px;
+}
+
+
+.table{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.grid td, .grid th {
+    text-align: left !important;
+}
+
+.center_RCar {
+ width:300px;
+    height:300px;
+    position:absolute;
+
+    top:-40px;
+    bottom:0;
+    left:0;
+    right:0;
+
+    margin:auto;
+}
+
